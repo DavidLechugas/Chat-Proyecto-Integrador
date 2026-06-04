@@ -1,0 +1,232 @@
+[
+  {
+    "id": "bujia",
+    "keywords": ["bujia", "chispa", "encendido", "spark plug"],
+    "answer": "La bujia genera la chispa para encender la mezcla aire-combustible. Si esta gastada puede causar fallas de encendido, tirones, consumo alto y perdida de potencia."
+  },
+  {
+    "id": "bujia_color",
+    "keywords": ["color bujia", "bujia negra", "bujia blanca", "bujia cafe", "leer bujia"],
+    "answer": "La lectura de bujia orienta sobre combustion: tono cafe claro o gris suele indicar trabajo normal; negra con hollin puede sugerir mezcla rica o problemas de encendido; blanca o con signos de sobrecalentamiento puede indicar mezcla pobre o exceso de temperatura. Conviene revisar carburacion/inyeccion y estado general del motor."
+  },
+  {
+    "id": "bujia_iridio",
+    "keywords": ["bujia iridio", "iridium", "convencional", "diferencia bujia"],
+    "answer": "Las bujias de iridio suelen durar mas y mantener una chispa estable por mas tiempo que una convencional de niquel. Son mas costosas, pero normalmente ofrecen mejor vida util y arranque mas consistente."
+  },
+  {
+    "id": "no_enciende",
+    "keywords": ["no enciende", "no prende", "arranca", "encender", "motor no prende"],
+    "answer": "Si la moto no enciende revisa en este orden: carga de bateria, estado de bujia, combustible disponible, fusibles y switch de paro. Si gira lento el arranque suele apuntar a bateria o conexiones; si gira bien pero no enciende, revisa chispa y alimentacion de combustible."
+  },
+  {
+    "id": "arranque_click",
+    "keywords": ["hace click", "solo suena click", "relay arranque", "clic arranque"],
+    "answer": "Si solo escuchas un click al arrancar, normalmente hay baja carga de bateria, bornes flojos/sulfatados o problema en rele de arranque. Primero limpia y aprieta bornes, luego mide voltaje de bateria."
+  },
+  {
+    "id": "bateria_compra",
+    "keywords": ["comprar bateria", "que bateria", "polaridad", "cca", "ah", "amperios hora"],
+    "answer": "Para comprar bateria valida: voltaje (normalmente 12V), capacidad (Ah), corriente de arranque, dimensiones fisicas, tipo de terminal y polaridad. Tambien confirma marca, modelo, cilindraje y anio del vehiculo."
+  },
+  {
+    "id": "bateria_mantenimiento",
+    "keywords": ["mantenimiento bateria", "guardar bateria", "almacenamiento bateria", "cargador mantenedor"],
+    "answer": "Si la moto va a quedar parada, mantén la bateria bien cargada y desconectada del consumo parasitario. En almacenamientos largos, usa cargador mantenedor compatible y revisa carga periodicamente para evitar sulfatacion."
+  },
+  {
+    "id": "aceite_funcion",
+    "keywords": ["aceite motor", "lubricante", "funcion aceite", "para que sirve aceite"],
+    "answer": "El aceite reduce friccion, ayuda a enfriar, limpia residuos y protege el motor contra desgaste y corrosion. Rodar con bajo nivel o aceite degradado acelera el dano interno."
+  },
+  {
+    "id": "aceite_intervalo",
+    "keywords": ["cambio de aceite", "cada cuanto aceite", "intervalo aceite", "km aceite", "10w40"],
+    "answer": "Como referencia general, muchas motos de uso diario cambian aceite entre 2.000 y 4.000 km segun uso, clima y tipo de aceite. Ademas del kilometraje, revisa nivel semanalmente y antes de viajes largos."
+  },
+  {
+    "id": "aceite_viscosidad",
+    "keywords": ["5w40", "10w40", "15w50", "viscosidad", "que aceite usar"],
+    "answer": "La viscosidad correcta depende del fabricante y clima. Usa la especificacion recomendada en manual (por ejemplo 10W-40 o 15W-50) y evita mezclar especificaciones sin criterio."
+  },
+  {
+    "id": "humo_azul",
+    "keywords": ["humo azul", "bota humo azul", "consume aceite"],
+    "answer": "El humo azul suele relacionarse con quema de aceite. Puede indicar desgaste de anillos, guias o retenes de valvula. Revisa nivel de aceite y realiza diagnostico mecanico para confirmar causa."
+  },
+  {
+    "id": "humo_negro",
+    "keywords": ["humo negro", "mezcla rica", "mucho combustible"],
+    "answer": "El humo negro suele indicar exceso de combustible en la mezcla. Revisa filtro de aire, bujia, sensor/inyector o ajuste de carburacion segun el sistema de tu moto."
+  },
+  {
+    "id": "humo_blanco",
+    "keywords": ["humo blanco", "vapor blanco"],
+    "answer": "El humo blanco puede ser vapor normal en frio, pero si persiste en caliente podria indicar problema interno. Conviene revisar inmediatamente para evitar dano mayor."
+  },
+  {
+    "id": "freno_balatas",
+    "keywords": ["balata", "pastilla de freno", "frenos gastados", "chillido freno", "freno suena"],
+    "answer": "Senales tipicas de balatas gastadas: menor frenado, chirrido metalico, vibracion o aumento de distancia de frenado. Si el material de friccion esta muy delgado, cambia de inmediato por seguridad."
+  },
+  {
+    "id": "freno_espesor",
+    "keywords": ["espesor balata", "grosor balata", "3 mm balata", "medir balata"],
+    "answer": "Como referencia de mantenimiento, cuando el material de friccion de la balata se acerca a pocos milimetros de espesor, ya es momento de reemplazo preventivo."
+  },
+  {
+    "id": "freno_esponjoso",
+    "keywords": ["freno esponjoso", "palanca suave", "freno sin presion", "pedal blando"],
+    "answer": "Un freno esponjoso puede indicar aire en el circuito, liquido degradado o fuga. No es seguro seguir usando la moto asi; realiza purga e inspeccion completa del sistema."
+  },
+  {
+    "id": "liquido_frenos",
+    "keywords": ["liquido de frenos", "dot 3", "dot 4", "dot 5.1", "cambio liquido frenos"],
+    "answer": "El liquido de frenos absorbe humedad con el tiempo y pierde rendimiento termico. Usa el tipo DOT recomendado por el fabricante y cambia segun el plan de mantenimiento."
+  },
+  {
+    "id": "llantas_presion",
+    "keywords": ["presion llantas", "presion neumaticos", "cuanto aire", "psi moto"],
+    "answer": "La presion correcta es la que indica el fabricante de la moto para tu configuracion de carga. Verifica en frio y ajusta antes de rodar; una presion incorrecta afecta agarre, frenado, desgaste y consumo."
+  },
+  {
+    "id": "llantas_desgaste",
+    "keywords": ["desgaste llanta", "llanta lisa", "sin dibujo", "tread depth", "grietas llanta"],
+    "answer": "Cambia la llanta si el labrado esta al limite, hay grietas, cortes, bultos o desgaste irregular severo. Rodar con llanta degradada aumenta el riesgo de derrape y reventon."
+  },
+  {
+    "id": "llantas_vibracion",
+    "keywords": ["vibra alta velocidad", "vibracion rueda", "balanceo rueda"],
+    "answer": "La vibracion en rueda puede deberse a desbalanceo, deformacion de llanta, rodamientos o alineacion. Conviene revisar llantas, balanceo y juego en ejes."
+  },
+  {
+    "id": "cadena_mantenimiento",
+    "keywords": ["cadena", "limpiar cadena", "lubricar cadena", "kit arrastre", "tension cadena"],
+    "answer": "La cadena requiere limpieza, lubricacion y ajuste de holgura segun manual. Una cadena seca o mal tensada acelera desgaste de pinon/corona y puede causar tirones."
+  },
+  {
+    "id": "cadena_sintomas",
+    "keywords": ["cadena suena", "cadena floja", "cadena dura", "puntos duros cadena"],
+    "answer": "Si notas ruido, puntos duros o tirones, revisa estado de eslabones, lubricacion y alineacion. Si hay desgaste parejo de cadena/pinon/corona, cambia el kit completo."
+  },
+  {
+    "id": "transmision_patina",
+    "keywords": ["patina embrague", "sube rpm no avanza", "clutch patina"],
+    "answer": "Si el motor sube de rpm sin transmitir fuerza, puede haber desgaste en discos de embrague o ajuste incorrecto del cable/sistema. Evita exigir la moto hasta revisar."
+  },
+  {
+    "id": "filtro_aire",
+    "keywords": ["filtro de aire", "limpiar filtro", "cambiar filtro", "filtro sucio"],
+    "answer": "Un filtro de aire sucio reduce flujo, aumenta consumo y baja rendimiento. Limpialo o cambialo segun tipo de filtro y condiciones de polvo."
+  },
+  {
+    "id": "filtro_combustible",
+    "keywords": ["filtro de gasolina", "filtro combustible", "falla combustible"],
+    "answer": "Un filtro de combustible obstruido puede causar jaloneos, perdida de potencia y fallas al acelerar. Revisa presion/caudal y reemplaza si corresponde."
+  },
+  {
+    "id": "inyeccion_vs_carburador",
+    "keywords": ["carburador", "inyeccion electronica", "efi", "diferencia carburador inyeccion"],
+    "answer": "La inyeccion electronica controla mezcla con sensores y ECU, suele ser mas eficiente y estable. El carburador es mecanico y mas simple, pero requiere ajustes mas frecuentes."
+  },
+  {
+    "id": "inyector_sucio",
+    "keywords": ["inyector sucio", "limpiar inyector", "falla inyeccion", "pulsos inyector"],
+    "answer": "Un inyector sucio puede generar ralenti inestable, tirones y consumo alto. Conviene limpieza y prueba de patron/caudal en servicio especializado."
+  },
+  {
+    "id": "ralenti_inestable",
+    "keywords": ["ralenti inestable", "minimo inestable", "se apaga en minimo"],
+    "answer": "El ralenti inestable puede deberse a admision sucia, bujia desgastada, fuga de vacio o mezcla incorrecta. Revisa sistema de aire-combustible y encendido."
+  },
+  {
+    "id": "pierde_fuerza",
+    "keywords": ["pierde fuerza", "sin potencia", "no acelera", "se ahoga"],
+    "answer": "La perdida de fuerza suele relacionarse con mezcla deficiente, filtro de aire sucio, bujia desgastada, compresion baja o restriccion de combustible. Diagnostica por etapas para aislar causa."
+  },
+  {
+    "id": "consumo_alto",
+    "keywords": ["consume mucho", "gasta mucha gasolina", "alto consumo"],
+    "answer": "El consumo alto puede aumentar por filtro de aire sucio, bujia gastada, presion de llantas baja, mezcla rica o habitos de conduccion agresivos. Revisa primero mantenimiento basico."
+  },
+  {
+    "id": "sobrecalentamiento",
+    "keywords": ["se calienta", "sobrecalienta", "temperatura alta", "hervida"],
+    "answer": "Si la moto se sobrecalienta, revisa nivel de refrigerante, funcionamiento del ventilador, estado del radiador y mezcla aire-combustible. No fuerces el motor con temperatura critica."
+  },
+  {
+    "id": "refrigerante",
+    "keywords": ["refrigerante", "coolant", "anticongelante", "nivel radiador"],
+    "answer": "Usa refrigerante compatible recomendado por fabricante. Mantener nivel y estado correcto ayuda a controlar temperatura y prevenir corrosion interna."
+  },
+  {
+    "id": "luces_sistema_carga",
+    "keywords": ["luces bajan", "luces tenues", "descarga bateria andando", "regulador", "estator"],
+    "answer": "Si las luces bajan con motor encendido o la bateria se descarga andando, revisa sistema de carga: regulador/rectificador, estator y conexiones a masa."
+  },
+  {
+    "id": "fusibles",
+    "keywords": ["fusible", "se quema fusible", "sin corriente", "tablero apagado"],
+    "answer": "Si un fusible se quema repetidamente, hay corto o sobreconsumo en ese circuito. No pongas fusible de mayor amperaje sin diagnostico."
+  },
+  {
+    "id": "rodamientos_ruido",
+    "keywords": ["rodamiento", "ruleman", "zumbido rueda", "juego rueda"],
+    "answer": "Un zumbido creciente o juego lateral en rueda puede indicar rodamiento desgastado. Debe revisarse pronto para evitar falla de seguridad."
+  },
+  {
+    "id": "suspension",
+    "keywords": ["suspension dura", "suspension blanda", "amortiguador fuga", "horquilla fuga"],
+    "answer": "Si hay fuga en horquilla o amortiguador, rebote excesivo o inestabilidad, se requiere servicio de suspension. Una suspension mal estado compromete frenado y control."
+  },
+  {
+    "id": "mantenimiento_preventivo",
+    "keywords": ["mantenimiento preventivo", "que revisar", "checklist moto", "antes de salir"],
+    "answer": "Checklist rapido antes de rodar: presion y estado de llantas, frenos delantero/trasero, nivel de aceite, luces y direccionales, posibles fugas y tension de cadena."
+  },
+  {
+    "id": "compatibilidad",
+    "keywords": ["sirve para mi moto", "compatible", "le queda", "aplica a mi moto", "repuesto compatible"],
+    "answer": "Para confirmar compatibilidad de una pieza necesito: marca, modelo, cilindraje, anio y referencia de la pieza actual. Sin esos datos, solo puedo dar orientacion general."
+  },
+  {
+    "id": "compra_repuesto",
+    "keywords": ["comprar repuesto", "como elegir repuesto", "original o generico", "marca recomendada"],
+    "answer": "Al comprar repuesto valida referencia exacta, compatibilidad por modelo/anio, calidad del fabricante, garantia y procedencia. En piezas criticas de seguridad prioriza marcas confiables."
+  },
+  {
+    "id": "falsificacion",
+    "keywords": ["repuesto falso", "bujia falsa", "como detectar copia"],
+    "answer": "Para reducir riesgo de falsificaciones compra en distribuidores confiables, verifica empaque y codigo del fabricante, y evita precios demasiado bajos en piezas criticas."
+  },
+  {
+    "id": "frenado_seguridad",
+    "keywords": ["freno no responde", "se va de largo", "no frena", "falla freno"],
+    "answer": "Si el frenado es deficiente, no uses la moto hasta revisar sistema completo. Es una condicion de riesgo alto y requiere inspeccion inmediata."
+  },
+  {
+    "id": "ruido_motor",
+    "keywords": ["ruido motor", "golpeteo", "cascabeleo", "traqueteo"],
+    "answer": "Un ruido anormal continuo en motor puede indicar problema de lubricacion, valvulas o partes internas. Deten uso exigente y realiza diagnostico para evitar dano mayor."
+  },
+  {
+    "id": "dos_tiempos_cuatro_tiempos",
+    "keywords": ["2 tiempos", "4 tiempos", "dos tiempos", "cuatro tiempos"],
+    "answer": "Un motor 2T entrega potencia en cada vuelta de cigueñal y suele ser mas simple pero menos eficiente y mas contaminante. Un 4T es mas eficiente en consumo y emisiones, con mantenimiento distinto."
+  },
+  {
+    "id": "starter_weak",
+    "keywords": ["arranque debil", "motor de arranque lento", "le cuesta prender en frio"],
+    "answer": "Arranque debil en frio suele apuntar a bateria baja, aceite muy viscoso para clima, bujia gastada o bornes con mala conexion."
+  },
+  {
+    "id": "vibracion_general",
+    "keywords": ["vibra mucho", "vibracion moto", "temblor en manillar"],
+    "answer": "La vibracion excesiva puede venir de llantas desbalanceadas, soportes flojos, cadena mal tensionada o problemas de motor. Conviene revisar primero rueda/cadena y luego tren motriz."
+  },
+  {
+    "id": "respuesta_no_entendida",
+    "keywords": ["no entiendo", "explica mejor", "mas simple", "en resumen"],
+    "answer": "Te lo explico simple: dime la pieza exacta o el sintoma principal y te doy pasos concretos en orden de revision."
+  }
+]
