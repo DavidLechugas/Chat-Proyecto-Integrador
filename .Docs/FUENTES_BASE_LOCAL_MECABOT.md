@@ -1,4 +1,4 @@
-# Fuentes tecnicas usadas para ampliar la base local de MecaBot
+# Fuentes técnicas usadas para ampliar la base local de Juan Mecánico AI
 
 ## Referencias principales
 
@@ -22,7 +22,7 @@ https://www.nhtsa.gov/road-safety/motorcycles
 
 ## Nota de uso
 
-La base local de MecaBot se redacto en formato orientativo para usuario general.
+La base local de Juan Mecánico AI se redactó en formato orientativo para usuario general.
 Para compatibilidad exacta de repuestos y planes de mantenimiento, el criterio final es:
 
 - manual OEM de la moto,

@@ -1,8 +1,8 @@
-# INFORME DETALLADO - PROYECTO MECABOT
+# INFORME DETALLADO - PROYECTO JUAN MECANICO AI
 
 ## 1. Identificacion del proyecto
 
-- Nombre: `MecaBot`
+- Nombre: `Juan Mecánico AI`
 - Tipo: Chatbot asesor de repuestos y piezas automotoras (enfoque motos)
 - Contexto: complemento del sistema de inventario/POS del otro grupo
 - Estado: implementado en version MVP funcional
@@ -10,7 +10,7 @@
 ## 2. Contexto y justificacion
 
 El grupo aliado ya cubre operaciones core del negocio: inventario, ventas POS, reportes y usuarios.  
-MecaBot se plantea como una capa de asistencia conversacional para resolver dudas tecnicas frecuentes de clientes y personal sobre:
+Juan Mecánico AI se plantea como una capa de asistencia conversacional para resolver dudas técnicas frecuentes de clientes y personal sobre:
 
 - funcion de piezas
 - sintomas de falla
@@ -244,7 +244,7 @@ Archivo: `backend/.env`
 
 ```env
 PORT=3000
-APP_NAME=MecaBot
+APP_NAME=Juan Mecánico AI
 AI_PROVIDER=gemini
 GEMINI_API_KEY=...
 GEMINI_MODEL=gemini-2.5-flash
@@ -311,7 +311,7 @@ CORS_ORIGIN=http://localhost:5173,http://127.0.0.1:5173,http://localhost:4173
 
 ## 23. Conclusiones
 
-MecaBot cumple el objetivo de actuar como asesor conversacional especializado sin duplicar el sistema POS del otro grupo.  
+Juan Mecánico AI cumple el objetivo de actuar como asesor conversacional especializado sin duplicar el sistema POS del otro grupo.  
 La estrategia hibrida implementada reduce costos, mejora disponibilidad y permite continuidad operativa incluso cuando hay fallas de conectividad o cuota en proveedores de IA.
 
 La base local enriquecida convierte a la IA en recurso de segundo nivel, que era el objetivo principal de esta etapa.

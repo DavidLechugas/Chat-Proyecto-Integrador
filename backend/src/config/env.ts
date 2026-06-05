@@ -25,7 +25,7 @@ const normalizeProvider = (value: string | undefined): "local" | "gemini" | "ope
 
 export const env = {
   port: toNumber(process.env.PORT, 3000),
-  appName: process.env.APP_NAME ?? "MecaBot",
+  appName: process.env.APP_NAME ?? "Juan Mecánico AI",
   aiProvider: normalizeProvider(process.env.AI_PROVIDER),
   geminiApiKey: process.env.GEMINI_API_KEY ?? "",
   geminiModel: process.env.GEMINI_MODEL ?? "gemini-2.5-flash",
